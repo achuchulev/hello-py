@@ -1,2 +1,1 @@
-# hello-py
-Python script that prints hello
+# Python script that prints hello
